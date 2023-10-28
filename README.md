@@ -6,7 +6,7 @@ Hynax was orginally developed for my old server called MineRIP and was worked on
 
 ## Original Authors
 
-Hynax was created and is actively maintained by me (Emily) and [Dani](https://github.com/daniwasonline/).
+Hynax was created and was maintained by me (Emily) and [Dani](https://github.com/daniwasonline/).
 
 ## Getting Started...
 
